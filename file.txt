@@ -1,0 +1,5 @@
+# Dependencies
+npm intall kafkajs
+npm install mysql
+npm install stompit
+npm install async
